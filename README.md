@@ -14,7 +14,6 @@ A full-stack web application built with ASP.NET and SQL Server for managing a ca
 - C#
 - ASP.NET
 - SQL Server
-- HTML, CSS
 
 ## Author
 Marcel Elea
